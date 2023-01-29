@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smartgeek69 a aspiring roboticist
+- 👋 Hi, I’m @smartgeek69 a aspiring Artificial Intelligence and Machine learning Engineer. 
 - 👀 I have my interests and research experience in machine learning, computer vision and Artificial intelligence algorithms. 
 - 🌱 I am doing some cool stuff on human robotics interaction.
 -  I am working with autoencoders and GAN's to develop a Guided algorithm for sampling and interpolating points in multidimensional latent spaces which have the capability to exhibit controls on features.
